@@ -11,7 +11,7 @@ psutil (process and system utilities) is a cross-platform library for retrieving
 
 To run the program file go to the cmd and change the directory according to directory of file. 
 #### command to change the directory
-* cd <directory path>
+* cd <directory_path>
 #### command to run the file
 * python <file_name.py> 
 
