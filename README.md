@@ -1,5 +1,5 @@
 # rankwatch17_py_monitoring
-it shows the cpu cores and usage of Disk, RAM and CPU in each 5 seconds. it also shows the average usage in last 30 seconds , 1 minute and 5 minnute
+it shows the cpu cores and usage of Disk, RAM and CPU in each 5 seconds. it also shows the average usage in last 30 seconds , 1 minute and 5 minnute.
 ## Requirements
 * install the pip on the system 
 ### Then install psutil module using pip
